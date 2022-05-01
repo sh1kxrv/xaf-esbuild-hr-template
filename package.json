@@ -1,9 +1,9 @@
 {
-  "name": "esbuild-xaf-template",
+  "name": "xaf-esbuild-hr-template.git",
   "version": "1.0.0",
   "description": "ESBuild Template with hot reload",
   "main": "dist/app.js",
-  "repository": "https://github.com/xafxafxaf/js-meme.git",
+  "repository": "https://github.com/xafxafxaf/xaf-esbuild-hr-template.git",
   "author": "Егор <ItsAwware@yandex.ru>",
   "license": "MIT",
   "scripts": {
