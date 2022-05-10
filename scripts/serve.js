@@ -14,6 +14,7 @@ let process = null
   chokidar
     .watch('src/**/*.{ts,tsx,js,jsx}', {
       interval: 0, // No delay
+      ignoreInitial: true,
     })
     .on('all', async () => {
       if (process && !process.killed) process.kill()
